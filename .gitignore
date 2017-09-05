@@ -97,3 +97,11 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Image files
+*.jpg
+*.JPEG
+*.png
+
+# Data directories
+*/data
